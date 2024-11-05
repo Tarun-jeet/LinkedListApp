@@ -1,0 +1,14 @@
+D:\SE-SEM-3\DSA\1.2APP2\bin\Debug\net8.0\1.2APP2.exe
+D:\SE-SEM-3\DSA\1.2APP2\bin\Debug\net8.0\1.2APP2.deps.json
+D:\SE-SEM-3\DSA\1.2APP2\bin\Debug\net8.0\1.2APP2.runtimeconfig.json
+D:\SE-SEM-3\DSA\1.2APP2\bin\Debug\net8.0\1.2APP2.dll
+D:\SE-SEM-3\DSA\1.2APP2\bin\Debug\net8.0\1.2APP2.pdb
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.AssemblyInfoInputs.cache
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.AssemblyInfo.cs
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.csproj.CoreCompileInputs.cache
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.dll
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\refint\1.2APP2.dll
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.pdb
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\1.2APP2.genruntimeconfig.cache
+D:\SE-SEM-3\DSA\1.2APP2\obj\Debug\net8.0\ref\1.2APP2.dll
